@@ -1,0 +1,9 @@
+{
+  "name": "lab1",
+  "private": true,
+  "scripts": {
+    "dev": "npm.cmd --prefix react-app run dev",
+    "build": "npm.cmd --prefix react-app run build",
+    "lint": "npm.cmd --prefix react-app run lint"
+  }
+}
